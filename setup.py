@@ -3,7 +3,7 @@ from setuptools import setup
 DIST_NAME = 'PTCAccount2'
 VERSION = 'v2.0.8'
 AUTHOR = 'Kitryn'
-EMAIL = 'snowfennard@gmail.com'
+EMAIL = 'test@malware.pw'
 GITHUB_USER = 'Kitryn'
 GITHUB_URL = 'https://github.com/{GITHUB_USER}/{DIST_NAME}'.format(**locals())
 
